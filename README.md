@@ -1,1 +1,3 @@
-# lavanya_504493D68EF9AFBA3A541C48FD2F2AA3
+r=int(input ("enter your radius"))
+a=3.14*(r*r)
+print("your area is:",a)
